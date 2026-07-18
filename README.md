@@ -44,6 +44,20 @@ No image ever leaves the phone. Only the optional refinement step calls an exter
 
 *Home · Retrieval-based findings · AI refinement · Input guard rejecting a non-X-ray image*
 
+<details>
+<summary>📱 More screens (onboarding, auth)</summary>
+<br>
+<p float="left">
+  <img src="docs/screenshots/splash.jpeg" width="150" />
+  <img src="docs/screenshots/intro-1.jpeg" width="150" />
+  <img src="docs/screenshots/intro-2.jpeg" width="150" />
+  <img src="docs/screenshots/intro-3.jpeg" width="150" />
+  <img src="docs/screenshots/start.jpeg" width="150" />
+  <img src="docs/screenshots/signup.jpeg" width="150" />
+  <img src="docs/screenshots/login.jpeg" width="150" />
+</p>
+</details>
+
 ## Dataset
 
 Trained and evaluated on the MedViLL-curated chest X-ray report dataset: **89,395 train / 759 validation / 1,531 test** image–report pairs, multi-label findings with strong class imbalance. The dataset is **not redistributed** here per its licence — obtain it from the official source. No patient-identifiable data is included in this repository.
